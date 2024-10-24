@@ -1,0 +1,8 @@
+.tabs button {
+  background-color: white;
+  border: none;
+  padding: 10px 50px;
+  margin: 20px;
+  color: black;
+  cursor: pointer;
+}
