@@ -17,31 +17,31 @@ const UploadVideos = () => {
             video: Delivery
         },
         {
-            video:Educational
+            video: Educational
         },
         {
-            video:Portfolio
+            video: Portfolio
         },
         {
-            video:sample6
+            video: sample6
         },
         {
-            video:sample9
+            video: sample9
         },
         {
-            video:sample10
+            video: sample10
         },
         {
-            video:ShortForm
+            video: ShortForm
         },
         {
-            video:Video1
+            video: Video1
         },
         {
-            video:Video2
+            video: Video2
         },
         {
-            video:Video3
+            video: Video3
         },
 
     ]
