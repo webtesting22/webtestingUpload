@@ -11,10 +11,30 @@ import img8 from "./Images/8-min.jpg"
 import img9 from "./Images/9-min.jpg"
 import img10 from "./Images/10-min.jpg"
 import img11 from "./Images/11-min.jpg"
+import Angles1 from "./Images/MittalGroup/Angles1.jpeg"
+import Channels1 from "./Images/MittalGroup/Channels1.jpeg"
+import ChannelsBar1 from "./Images/MittalGroup/ChannelsBar1.jpeg"
+import FlatBars1 from "./Images/MittalGroup/FlatBars1.jpeg"
+import RoundBars1 from "./Images/MittalGroup/RoundBars1.jpeg"
 // import img1 from "./Images/1-min.jpg"
 const UploadPhotos = () => {
 
     const UploadPhotoData = [
+        {
+            img:RoundBars1
+        },
+        {
+            img:FlatBars1
+        },
+        {
+            img:ChannelsBar1
+        },
+        {
+            img:Channels1
+        },
+        {
+            img: Angles1
+        },
         {
             img: img1,
         },
@@ -37,7 +57,7 @@ const UploadPhotos = () => {
         {
             img: img7,
         },
-         {
+        {
             img: img8,
         },
         {
@@ -58,8 +78,8 @@ const UploadPhotos = () => {
                 <Row>
                     {UploadPhotoData.map((item, index) => (
                         <Col lg={6} md={8} key={index}>
-                        <div className="imageContainer">
-                            <img src={item.img} alt="" />
+                            <div className="imageContainer">
+                                <img src={item.img} alt="" />
                             </div>
                         </Col>
                     ))}
