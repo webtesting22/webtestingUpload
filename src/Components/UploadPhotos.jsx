@@ -6,11 +6,11 @@ import img3 from "./Images/3-min.jpg"
 import img4 from "./Images/4-min.jpg"
 import img5 from "./Images/5-min.jpg"
 import img6 from "./Images/6-min.jpg"
-import img7 from "./Images/1-min.jpg"
-import img8 from "./Images/1-min.jpg"
-import img9 from "./Images/1-min.jpg"
-import img10 from "./Images/1-min.jpg"
-import img11 from "./Images/1-min.jpg"
+import img7 from "./Images/7-min.jpg"
+import img8 from "./Images/8-min.jpg"
+import img9 from "./Images/9-min.jpg"
+import img10 from "./Images/10-min.jpg"
+import img11 from "./Images/11-min.jpg"
 // import img1 from "./Images/1-min.jpg"
 const UploadPhotos = () => {
 
@@ -36,7 +36,8 @@ const UploadPhotos = () => {
 
         {
             img: img7,
-        }, {
+        },
+         {
             img: img8,
         },
         {
