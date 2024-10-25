@@ -11,9 +11,12 @@ import ShortForm from "./Videos/Short Form.mp4"
 import Video1 from "./Videos/Video1.mp4"
 import Video2 from "./Videos/Video2.mp4"
 import Video3 from "./Videos/Video3.mp4"
-
+import GlosemBackImage from "./Videos/GlosemBackImage.mp4"
 const UploadVideos = () => {
     const UploadVideoData = [
+        {
+            video:GlosemBackImage
+        },
         {
             video: Delivery
         },
