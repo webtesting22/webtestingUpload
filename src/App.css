@@ -6,3 +6,11 @@
   color: black;
   cursor: pointer;
 }
+.imageContainer{
+  width: 200px;
+}
+.imageContainer img{
+  width: 100%;
+  aspect-ratio: 3/2;
+  object-fit: contain;
+}
