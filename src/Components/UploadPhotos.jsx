@@ -16,7 +16,6 @@ import Channels1 from "./Images/MittalGroup/Channels1.jpeg"
 import ChannelsBar1 from "./Images/MittalGroup/ChannelsBar1.jpeg"
 import FlatBars1 from "./Images/MittalGroup/FlatBars1.jpeg"
 import RoundBars1 from "./Images/MittalGroup/RoundBars1.jpeg"
-// import img1 from "./Images/1-min.jpg"
 const UploadPhotos = () => {
 
     const UploadPhotoData = [

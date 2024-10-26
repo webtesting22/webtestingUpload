@@ -12,8 +12,16 @@ import Video1 from "./Videos/Video1.mp4"
 import Video2 from "./Videos/Video2.mp4"
 import Video3 from "./Videos/Video3.mp4"
 import GlosemBackImage from "./Videos/GlosemBackImage.mp4"
+import BackGround from "./Videos/AgiluxSolutions/BackGround.mp4"
+import Mobilescreen from "./Videos/AgiluxSolutions/Mobilescreen.mp4"
 const UploadVideos = () => {
     const UploadVideoData = [
+        {
+            video:Mobilescreen
+        },
+        {
+            video:BackGround
+        },
         {
             video:GlosemBackImage
         },
