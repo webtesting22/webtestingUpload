@@ -18,7 +18,7 @@ import FlatBars1 from "./Images/MittalGroup/FlatBars1.jpeg"
 import RoundBars1 from "./Images/MittalGroup/RoundBars1.jpeg"
 
 // ----------------GlosemImages-------------------
-import Bhavikpatel from "./Images/GlosemImages/Bhavikpatel.jpeg"
+import Bhavikpatel from "./Images/GlosemImages/BhavikPatel.jpeg"
 import Home1 from "./Images/GlosemImages/factorImage.jpeg"
 import Home2 from "./Images/GlosemImages/GlosemHomeBack.jpg"
 import IOT from "./Images/GlosemImages/IOT.jpeg"
