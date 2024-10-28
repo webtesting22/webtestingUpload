@@ -40,6 +40,14 @@ import Health from "./Images/GlosemImages/healthcare.jpeg"
 import Robotics from "./Images/GlosemImages/robotics.jpeg"
 import Consumer from "./Images/GlosemImages/consumer.jpeg"
 import Communication from "./Images/GlosemImages/communication.jpeg"
+import craousal1 from "./Images/GlosemImages/Craousal1.jpeg"
+import craousal2 from "./Images/GlosemImages/Craousal2.jpeg"
+import craousal3 from "./Images/GlosemImages/Craousal3.jpeg"
+import craousal4 from "./Images/GlosemImages/Craousal4.jpeg"
+import product1 from "./Images/GlosemImages/smt.webp"
+import product2 from "./Images/GlosemImages/molding.webp"
+import product3 from "./Images/GlosemImages/packaging.webp"
+import product4 from "./Images/GlosemImages/rel.webp"
 
 
 
@@ -160,6 +168,30 @@ const UploadPhotos = () => {
         },
         {
             img:Channels5
+        },
+        {
+            img:craousal1
+        },
+        {
+            img:craousal2
+        },
+        {
+            img:craousal3
+        },
+        {
+            img:craousal4
+        },
+        {
+            img:product1
+        },
+        {
+            img:product2
+        },
+        {
+            img:product3
+        },
+        {
+            img:product4
         }
 
     ]
