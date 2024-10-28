@@ -20,6 +20,13 @@ import RoundBars1 from "./Images/MittalGroup/RoundBars1.jpeg"
 // ----------------GlosemImages-------------------
 import Bhavikpatel from "./Images/GlosemImages/Bhavikpatel.jpeg"
 import Home1 from "./Images/GlosemImages/factorImage.jpeg"
+import Home2 from "./Images/GlosemImages/GlosemHomeBack.jpg"
+import IOT from "./Images/GlosemImages/IOT.jpeg"
+import Automotive from "./Images/GlosemImages/Automotive.jpeg"
+import Health from "./Images/GlosemImages/healthcare.jpeg"
+import Robotics from "./Images/GlosemImages/robotics.jpeg"
+import Consumer from "./Images/GlosemImages/consumer.jpeg"
+import Communication from "./Images/GlosemImages/communication.jpeg"
 const UploadPhotos = () => {
 
     const UploadPhotoData = [
@@ -73,10 +80,31 @@ const UploadPhotos = () => {
             img: img11,
         },
         {
-            img:Bhavikpatel
+            img:Bhavikpatel,
         },
         {
-            img:Home1
+            img:Home1,
+        },
+        {
+            img:Home2,
+        },
+        {
+            img:IOT,
+        },
+        {
+            img:Automotive,
+        },
+        {
+            img:Health,
+        },
+        {
+            img:Robotics,
+        },
+        {
+            img:Consumer,
+        },
+        {
+            img:Communication,
         }
 
     ]
