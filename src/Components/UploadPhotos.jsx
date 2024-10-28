@@ -29,6 +29,10 @@ import Channels2 from "./Images/MittalGroup/channels2.jpg"
 import Channels3 from "./Images/MittalGroup/channels3.jpg"
 import Channels4 from "./Images/MittalGroup/channels4.jpg"
 import Channels5 from "./Images/MittalGroup/channels5.jpg"
+import GeminiFlatBar from "./Images/MittalGroup/gflatbar.jpeg"
+import GeminiRoundBar from "./Images/MittalGroup/groundbar.jpeg"
+import GeminiAngles from "./Images/MittalGroup/gangles.jpeg"
+import GeminiChannels from "./Images/MittalGroup/gchannels.jpeg"
 
 // ----------------GlosemImages-------------------
 import Bhavikpatel from "./Images/GlosemImages/BhavikPatel.jpeg"
@@ -192,6 +196,18 @@ const UploadPhotos = () => {
         },
         {
             img:product4
+        },
+        {
+            img:GeminiFlatBar
+        },
+        {
+            img:GeminiRoundBar
+        },
+        {
+            img:GeminiAngles
+        },
+        {
+            img:GeminiChannels
         }
 
     ]
