@@ -57,6 +57,10 @@ import product1 from "./Images/GlosemImages/smt.webp"
 import product2 from "./Images/GlosemImages/molding.webp"
 import product3 from "./Images/GlosemImages/packaging.webp"
 import product4 from "./Images/GlosemImages/rel.webp"
+import Flipchip1 from "./Images/GlosemImages/FCBGA.webp"
+import Flipchip2 from "./Images/GlosemImages/cuPillar.webp"
+import Flipchip3 from "./Images/GlosemImages/FCFBGA_MUF.webp"
+import Flipchip4 from "./Images/GlosemImages/FCFBGA_eMUF.webp"
 
 
 
@@ -113,33 +117,6 @@ const UploadPhotos = () => {
             img: img11,
         },
         {
-            img:Bhavikpatel,
-        },
-        {
-            img:Home1,
-        },
-        {
-            img:Home2,
-        },
-        {
-            img:IOT,
-        },
-        {
-            img:Automotive,
-        },
-        {
-            img:Health,
-        },
-        {
-            img:Robotics,
-        },
-        {
-            img:Consumer,
-        },
-        {
-            img:Communication,
-        },
-        {
             img:FlatBars2
         },
         {
@@ -179,30 +156,6 @@ const UploadPhotos = () => {
             img:Channels5
         },
         {
-            img:craousal1
-        },
-        {
-            img:craousal2
-        },
-        {
-            img:craousal3
-        },
-        {
-            img:craousal4
-        },
-        {
-            img:product1
-        },
-        {
-            img:product2
-        },
-        {
-            img:product3
-        },
-        {
-            img:product4
-        },
-        {
             img:GeminiFlatBar
         },
         {
@@ -228,6 +181,69 @@ const UploadPhotos = () => {
         },
         {
             img:GeminiAngles3
+        },
+        {
+            img:craousal1
+        },
+        {
+            img:craousal2
+        },
+        {
+            img:craousal3
+        },
+        {
+            img:craousal4
+        },
+        {
+            img:product1
+        },
+        {
+            img:product2
+        },
+        {
+            img:product3
+        },
+        {
+            img:product4
+        },
+        {
+            img:Bhavikpatel,
+        },
+        {
+            img:Home1,
+        },
+        {
+            img:Home2,
+        },
+        {
+            img:IOT,
+        },
+        {
+            img:Automotive,
+        },
+        {
+            img:Health,
+        },
+        {
+            img:Robotics,
+        },
+        {
+            img:Consumer,
+        },
+        {
+            img:Communication,
+        },
+        {
+            img:Flipchip1
+        },
+        {
+            img:Flipchip2
+        },
+        {
+            img:Flipchip3
+        },
+        {
+            img:Flipchip4
         }
 
     ]
