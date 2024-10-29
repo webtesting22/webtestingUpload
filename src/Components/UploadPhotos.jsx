@@ -37,6 +37,7 @@ import GeminiChannels2 from "./Images/MittalGroup/gchannels2.jpeg"
 import GeminiAngles2 from "./Images/MittalGroup/gangles2.jpeg"
 import GeminiRoundBar2 from "./Images/MittalGroup/groundbar2.jpeg"
 import GeminiRoundBar3 from "./Images/MittalGroup/groundbar3.jpeg"
+import GeminiAngles3 from "./Images/MittalGroup/gangles3.webp"
 
 // ----------------GlosemImages-------------------
 import Bhavikpatel from "./Images/GlosemImages/BhavikPatel.jpeg"
@@ -224,6 +225,9 @@ const UploadPhotos = () => {
         },
         {
             img:GeminiRoundBar3
+        },
+        {
+            img:GeminiAngles3
         }
 
     ]
