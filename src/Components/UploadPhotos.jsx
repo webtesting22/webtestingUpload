@@ -38,6 +38,21 @@ import GeminiAngles2 from "./Images/MittalGroup/gangles2.jpeg"
 import GeminiRoundBar2 from "./Images/MittalGroup/groundbar2.jpeg"
 import GeminiRoundBar3 from "./Images/MittalGroup/groundbar3.jpeg"
 import GeminiAngles3 from "./Images/MittalGroup/gangles3.webp"
+import location from "./Images/MittalGroup/Location.jpg"
+import capability from "./Images/MittalGroup/Capabilities.jpg"
+import OST from "./Images/MittalGroup/On-Site Testing.jpg"
+import MT from "./Images/MittalGroup/Mechanical Testing.jpg"
+import CT from "./Images/MittalGroup/Chemical Testing.jpg"
+import SA from "./Images/MittalGroup/Safety Assurance.jpg"
+import standard from "./Images/MittalGroup/Standardization.jpg"
+import consistency from "./Images/MittalGroup/Consistency.avif"
+import CC from "./Images/MittalGroup/Customer Confidence.jpg"
+import BIS from "./Images/MittalGroup/Bureau of Indian Standards (BIS).jpeg"
+import marketCredibility from "./Images/MittalGroup/Market Credibility.jpg"
+import CustomerTrust from "./Images/MittalGroup/Customer Trust.jpg"
+import ISI from "./Images/MittalGroup/ISI Mark Certification.jpg"
+import RA from "./Images/MittalGroup/Regulatory Assurance.jpg"
+import BR from "./Images/MittalGroup/Brand Reputation.jpg"
 
 // ----------------GlosemImages-------------------
 import Bhavikpatel from "./Images/GlosemImages/BhavikPatel.jpeg"
@@ -67,6 +82,51 @@ import Flipchip4 from "./Images/GlosemImages/FCFBGA_eMUF.webp"
 const UploadPhotos = () => {
 
     const UploadPhotoData = [
+        {
+            img:location
+        },
+        {
+            img:capability
+        },
+        {
+            img:OST
+        },
+        {
+            img:MT
+        },
+        {
+            img:CT
+        },
+        {
+            img:SA
+        },
+        {
+            img:standard
+        },
+        {
+            img:consistency
+        },
+        {
+            img:CC
+        },
+        {
+            img:BIS
+        },
+        {
+            img:marketCredibility
+        },
+        {
+            img:CustomerTrust
+        },
+        {
+            img:ISI
+        },
+        {
+            img:RA
+        },
+        {
+            img:BR
+        },
         {
             img:RoundBars1
         },
