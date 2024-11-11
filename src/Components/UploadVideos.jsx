@@ -14,6 +14,7 @@ import Video3 from "./Videos/Video3.mp4"
 import GlosemBackImage from "./Videos/GlosemBackImage.mp4"
 import BackGround from "./Videos/AgiluxSolutions/BackGround.mp4"
 import Mobilescreen from "./Videos/AgiluxSolutions/Mobilescreen.mp4"
+import MittalVideo from "./Videos/AB Mittal Video.mp4"
 const UploadVideos = () => {
     const UploadVideoData = [
         {
@@ -55,6 +56,9 @@ const UploadVideos = () => {
         {
             video: Video3
         },
+        {
+            video:MittalVideo,
+        }
 
     ]
     return (
