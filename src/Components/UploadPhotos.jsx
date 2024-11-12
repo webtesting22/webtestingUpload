@@ -24,6 +24,7 @@ import AvoImage5 from "./Images/AvoCurations/5.jpeg"
 import AvoImage6 from "./Images/AvoCurations/6.jpeg"
 import AvoImage7 from "./Images/AvoCurations/7.jpeg"
 import AvoImage8 from "./Images/AvoCurations/8.jpeg"
+import Newlogo from "./Images/AvoCurations/Newlogo.png"
 import AvoImage9 from "./Images/AvoCurations/AboutUsBanner.jpeg"
 import AvoImage10 from "./Images/AvoCurations/AvoLogo.jpeg"
 import FlatBars2 from "./Images/MittalGroup/flatbar2.jpg"
@@ -93,83 +94,90 @@ const UploadPhotos = () => {
 
     const UploadPhotoData = [
         {
-            img:AvoImage1
-        },{
-            img:AvoImage2
-        },{
-            img:AvoImage3
-        },{
-            img:AvoImage4
-        },{
-            img:AvoImage5
-        },{
-            img:AvoImage6
-        },{
-            img:AvoImage7
-        },{
-            img:AvoImage7
+            img: AvoImage1
+        }, {
+            img: AvoImage2
+        }, {
+            img: AvoImage3
+        }, {
+            img: AvoImage4
+        }, {
+            img: AvoImage5
+        }, {
+            img: AvoImage6
+        }, {
+            img: AvoImage7
+        }, {
+            img: AvoImage7
         },
         {
-            img:AvoImage9
+            img: AvoImage8
         },
         {
-            img:AvoImage10
-            
-        },
-        {img:location},
-        {
-            img:capability
+            img: AvoImage9
+
         },
         {
-            img:OST
+            img: AvoImage10
+
         },
         {
-            img:MT
+            img: Newlogo
+        },
+        { img: location },
+        {
+            img: capability
         },
         {
-            img:CT
+            img: OST
         },
         {
-            img:SA
+            img: MT
         },
         {
-            img:standard
+            img: CT
         },
         {
-            img:consistency
+            img: SA
         },
         {
-            img:CC
+            img: standard
         },
         {
-            img:BIS
+            img: consistency
         },
         {
-            img:marketCredibility
+            img: CC
         },
         {
-            img:CustomerTrust
+            img: BIS
         },
         {
-            img:ISI
+            img: marketCredibility
         },
         {
-            img:RA
+            img: CustomerTrust
         },
         {
-            img:BR
+            img: ISI
         },
         {
-            img:RoundBars1
+            img: RA
         },
         {
-            img:FlatBars1
+            img: BR
         },
         {
-            img:ChannelsBar1
+            img: RoundBars1
         },
         {
-            img:Channels1
+            img: FlatBars1
+        },
+        {
+            img: ChannelsBar1
+        },
+        {
+            img: Channels1
         },
         {
             img: Angles1
@@ -209,19 +217,19 @@ const UploadPhotos = () => {
             img: img11,
         },
         {
-            img:FlatBars2
+            img: FlatBars2
         },
         {
-            img:FlatBars3
+            img: FlatBars3
         },
         {
-            img:FlatBars4
+            img: FlatBars4
         },
         {
-            img:FlatBars5
+            img: FlatBars5
         },
         {
-            img:FlatBars6
+            img: FlatBars6
         },
         {
             img: Angles2
@@ -236,106 +244,106 @@ const UploadPhotos = () => {
             img: Angles5
         },
         {
-            img:Channels2
+            img: Channels2
         },
         {
-            img:Channels3
+            img: Channels3
         },
         {
-            img:Channels4
+            img: Channels4
         },
         {
-            img:Channels5
+            img: Channels5
         },
         {
-            img:GeminiFlatBar
+            img: GeminiFlatBar
         },
         {
-            img:GeminiRoundBar
+            img: GeminiRoundBar
         },
         {
-            img:GeminiAngles
+            img: GeminiAngles
         },
         {
-            img:GeminiChannels
+            img: GeminiChannels
         },
         {
-            img:GeminiChannels2
+            img: GeminiChannels2
         },
         {
-            img:GeminiAngles2
+            img: GeminiAngles2
         },
         {
-            img:GeminiRoundBar2
+            img: GeminiRoundBar2
         },
         {
-            img:GeminiRoundBar3
+            img: GeminiRoundBar3
         },
         {
-            img:GeminiAngles3
+            img: GeminiAngles3
         },
         {
-            img:craousal1
+            img: craousal1
         },
         {
-            img:craousal2
+            img: craousal2
         },
         {
-            img:craousal3
+            img: craousal3
         },
         {
-            img:craousal4
+            img: craousal4
         },
         {
-            img:product1
+            img: product1
         },
         {
-            img:product2
+            img: product2
         },
         {
-            img:product3
+            img: product3
         },
         {
-            img:product4
+            img: product4
         },
         {
-            img:Bhavikpatel,
+            img: Bhavikpatel,
         },
         {
-            img:Home1,
+            img: Home1,
         },
         {
-            img:Home2,
+            img: Home2,
         },
         {
-            img:IOT,
+            img: IOT,
         },
         {
-            img:Automotive,
+            img: Automotive,
         },
         {
-            img:Health,
+            img: Health,
         },
         {
-            img:Robotics,
+            img: Robotics,
         },
         {
-            img:Consumer,
+            img: Consumer,
         },
         {
-            img:Communication,
+            img: Communication,
         },
         {
-            img:Flipchip1
+            img: Flipchip1
         },
         {
-            img:Flipchip2
+            img: Flipchip2
         },
         {
-            img:Flipchip3
+            img: Flipchip3
         },
         {
-            img:Flipchip4
+            img: Flipchip4
         }
 
     ]
