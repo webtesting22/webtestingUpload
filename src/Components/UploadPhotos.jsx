@@ -16,9 +16,42 @@ import Channels1 from "./Images/MittalGroup/Channels1.jpeg"
 import ChannelsBar1 from "./Images/MittalGroup/ChannelsBar1.jpeg"
 import FlatBars1 from "./Images/MittalGroup/FlatBars1.jpeg"
 import RoundBars1 from "./Images/MittalGroup/RoundBars1.jpeg"
+import AvoImage1 from "./Images/AvoCurations/1.jpeg"
+import AvoImage2 from "./Images/AvoCurations/2.jpeg"
+import AvoImage3 from "./Images/AvoCurations/3.jpeg"
+import AvoImage4 from "./Images/AvoCurations/4.jpeg"
+import AvoImage5 from "./Images/AvoCurations/5.jpeg"
+import AvoImage6 from "./Images/AvoCurations/6.jpeg"
+import AvoImage7 from "./Images/AvoCurations/7.jpeg"
+import AvoImage8 from "./Images/AvoCurations/8.jpeg"
+import AvoImage9 from "./Images/AvoCurations/AboutUsBanner.jpeg"
+import AvoImage10 from "./Images/AvoCurations/AvoLogo.jpeg"
 const UploadPhotos = () => {
 
     const UploadPhotoData = [
+        {
+            img:AvoImage1
+        },{
+            img:AvoImage2
+        },{
+            img:AvoImage3
+        },{
+            img:AvoImage4
+        },{
+            img:AvoImage5
+        },{
+            img:AvoImage6
+        },{
+            img:AvoImage7
+        },{
+            img:AvoImage7
+        },
+        {
+            img:AvoImage9
+        },
+        {
+            img:AvoImage10
+        },
         {
             img:RoundBars1
         },

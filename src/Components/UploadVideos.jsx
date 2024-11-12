@@ -17,13 +17,13 @@ import Mobilescreen from "./Videos/AgiluxSolutions/Mobilescreen.mp4"
 const UploadVideos = () => {
     const UploadVideoData = [
         {
-            video:Mobilescreen
+            video: Mobilescreen
         },
         {
-            video:BackGround
+            video: BackGround
         },
         {
-            video:GlosemBackImage
+            video: GlosemBackImage
         },
         {
             video: Delivery
