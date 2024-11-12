@@ -27,6 +27,7 @@ import AvoImage8 from "./Images/AvoCurations/8.jpeg"
 import Newlogo from "./Images/AvoCurations/Newlogo.png"
 import AvoImage9 from "./Images/AvoCurations/AboutUsBanner.jpeg"
 import AvoImage10 from "./Images/AvoCurations/AvoLogo.jpeg"
+import AvoImage11 from "./Images/AvoCurations/gift-10002.gif"
 import FlatBars2 from "./Images/MittalGroup/flatbar2.jpg"
 import FlatBars3 from "./Images/MittalGroup/flatbar3.jpg"
 import FlatBars4 from "./Images/MittalGroup/flatbar4.jpg"
@@ -120,6 +121,9 @@ const UploadPhotos = () => {
         {
             img: AvoImage10
 
+        },
+        {
+            img: AvoImage11
         },
         {
             img: Newlogo
