@@ -2,6 +2,7 @@ import React, { useState } from 'react';
 import './App.css';
 import UploadPhotos from './Components/UploadPhotos';
 import UploadVideos from './Components/UploadVideos';
+import ImageGallery from './ImageGallery';
 
 function App() {
   // State to manage the active tab
@@ -14,6 +15,7 @@ function App() {
 
   return (
     <div className="App">
+        <ImageGallery/>
       {/* Tab Buttons */}
       <div className="tabs">
         <button
