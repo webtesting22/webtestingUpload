@@ -15,7 +15,6 @@ function App() {
 
   return (
     <div className="App">
-        <ImageGallery/>
       {/* Tab Buttons */}
       <div className="tabs">
         <button
@@ -35,7 +34,10 @@ function App() {
       {/* Tab Content */}
       <div className="tab-content">
         {activeTab === 'tab1' && (
+          <>
           <UploadPhotos />
+          <ImageGallery />
+</>
         )}
 
         {activeTab === 'tab2' && (
