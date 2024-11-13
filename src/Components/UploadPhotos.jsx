@@ -28,6 +28,8 @@ import Newlogo from "./Images/AvoCurations/Newlogo.png"
 import AvoImage9 from "./Images/AvoCurations/AboutUsBanner.jpeg"
 import AvoImage10 from "./Images/AvoCurations/AvoLogo.jpeg"
 import AvoImage11 from "./Images/AvoCurations/Animated.gif"
+import GalleryImage from "./Images/AvoCurations/GalleryImage.svg"
+import GalleryImage2 from "./Images/AvoCurations/GalleryImage2.svg"
 import PlantImage from "./Images/AvoCurations/PlantImage.png"
 import AvoAccessoriesOverlay from "./Images/AvoCurations/AvoAccessoriesOverlay.png"
 import FlatBars2 from "./Images/MittalGroup/flatbar2.jpg"
@@ -96,6 +98,12 @@ import Flipchip4 from "./Images/GlosemImages/FCFBGA_eMUF.webp"
 const UploadPhotos = () => {
 
     const UploadPhotoData = [
+        {
+            img:GalleryImage2
+        },
+        {
+            img:GalleryImage
+        },
         {
             img:AvoAccessoriesOverlay
         },
