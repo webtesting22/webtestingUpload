@@ -92,24 +92,25 @@ import Flipchip1 from "./Images/GlosemImages/FCBGA.webp"
 import Flipchip2 from "./Images/GlosemImages/cuPillar.webp"
 import Flipchip3 from "./Images/GlosemImages/FCFBGA_MUF.webp"
 import Flipchip4 from "./Images/GlosemImages/FCFBGA_eMUF.webp"
-
+import GiftIcon from "./Images/AvoCurations/GiftIcon.png"
 
 
 const UploadPhotos = () => {
 
     const UploadPhotoData = [
+        { img: GiftIcon },
         {
-            img:GalleryImage2
+            img: GalleryImage2
         },
         {
-            img:GalleryImage
+            img: GalleryImage
         },
         {
-            img:AvoAccessoriesOverlay
+            img: AvoAccessoriesOverlay
         },
         {
-            img:PlantImage
-                    },
+            img: PlantImage
+        },
         {
             img: AvoImage1
         }, {
@@ -141,7 +142,7 @@ const UploadPhotos = () => {
         {
             img: AvoImage11
         },
-        
+
         {
             img: Newlogo
         },
