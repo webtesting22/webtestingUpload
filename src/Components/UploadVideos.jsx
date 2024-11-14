@@ -16,8 +16,12 @@ import BackGround from "./Videos/AgiluxSolutions/BackGround.mp4"
 import Mobilescreen from "./Videos/AgiluxSolutions/Mobilescreen.mp4"
 import MittalVideo from "./Videos/AB Mittal Video.mp4"
 import MittalHomePageVideo from "./Videos/MSL HomePage Video.mp4"
+import AVOVideo from "./Videos/AVOVideo.mp4"
 const UploadVideos = () => {
     const UploadVideoData = [
+        {
+            video:AVOVideo
+        },
         {
             video: Mobilescreen
         },
