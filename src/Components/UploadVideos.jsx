@@ -15,6 +15,7 @@ import GlosemBackImage from "./Videos/GlosemBackImage.mp4"
 import BackGround from "./Videos/AgiluxSolutions/BackGround.mp4"
 import Mobilescreen from "./Videos/AgiluxSolutions/Mobilescreen.mp4"
 import MittalVideo from "./Videos/AB Mittal Video.mp4"
+import MittalHomePageVideo from "./Videos/MSL HomePage Video.mp4"
 const UploadVideos = () => {
     const UploadVideoData = [
         {
@@ -58,6 +59,9 @@ const UploadVideos = () => {
         },
         {
             video:MittalVideo,
+        },
+        {
+            video:MittalHomePageVideo,
         }
 
     ]

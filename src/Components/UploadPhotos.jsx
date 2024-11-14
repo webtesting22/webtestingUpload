@@ -93,12 +93,18 @@ import Flipchip2 from "./Images/GlosemImages/cuPillar.webp"
 import Flipchip3 from "./Images/GlosemImages/FCFBGA_MUF.webp"
 import Flipchip4 from "./Images/GlosemImages/FCFBGA_eMUF.webp"
 import GiftIcon from "./Images/AvoCurations/GiftIcon.png"
-
-
+import ProductImage1 from "./Images/GlosemImages/BARE DIE FCBGA-new.png"
+import ProductImage2 from "./Images/GlosemImages/Chip Design.png"
+import ProductImage3 from "./Images/GlosemImages/SIP FCCSP MUF-new.png"
+import ProductImage4 from "./Images/GlosemImages/FCCSP-new.png"
+import ScrollImage1 from "./Images/GlosemImages/Chip Mockups - Copy-01.png"
+import ScrollImage2 from "./Images/GlosemImages/Chip Mockups - Copy-04.png"
 const UploadPhotos = () => {
 
     const UploadPhotoData = [
-        { img: GiftIcon },
+        {
+            img: GiftIcon
+        },
         {
             img: GalleryImage2
         },
@@ -113,19 +119,26 @@ const UploadPhotos = () => {
         },
         {
             img: AvoImage1
-        }, {
+        },
+        {
             img: AvoImage2
-        }, {
+        },
+        {
             img: AvoImage3
-        }, {
+        },
+        {
             img: AvoImage4
-        }, {
+        },
+        {
             img: AvoImage5
-        }, {
+        },
+        {
             img: AvoImage6
-        }, {
+        },
+        {
             img: AvoImage7
-        }, {
+        },
+        {
             img: AvoImage7
         },
         {
@@ -146,7 +159,9 @@ const UploadPhotos = () => {
         {
             img: Newlogo
         },
-        { img: location },
+        {
+            img: location
+        },
         {
             img: capability
         },
@@ -366,6 +381,24 @@ const UploadPhotos = () => {
         },
         {
             img: Flipchip4
+        },
+        {
+            img:ProductImage1,
+        },
+        {
+            img:ProductImage2,
+        },
+        {
+            img:ProductImage3,
+        },
+        {
+            img:ProductImage4,
+        },
+        {
+            img:ScrollImage1,
+        },
+        {
+            img:ScrollImage2,
         }
 
     ]
