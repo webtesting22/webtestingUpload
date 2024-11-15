@@ -99,6 +99,7 @@ import ProductImage3 from "./Images/GlosemImages/SIP FCCSP MUF-new.png"
 import ProductImage4 from "./Images/GlosemImages/FCCSP-new.png"
 import ScrollImage1 from "./Images/GlosemImages/Chip Mockups - Copy-01.png"
 import ScrollImage2 from "./Images/GlosemImages/Chip Mockups - Copy-04.png"
+import GlosemBackHomeCompressed from "./Images/GlosemImages/GlosemHomeBack-min (1).jpg"
 const UploadPhotos = () => {
 
     const UploadPhotoData = [
@@ -399,8 +400,10 @@ const UploadPhotos = () => {
         },
         {
             img:ScrollImage2,
+        },
+        {
+            img:GlosemBackHomeCompressed,
         }
-
     ]
 
     return (
