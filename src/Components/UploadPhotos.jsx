@@ -100,9 +100,49 @@ import ProductImage4 from "./Images/GlosemImages/FCCSP-new.png"
 import ScrollImage1 from "./Images/GlosemImages/Chip Mockups - Copy-01.png"
 import ScrollImage2 from "./Images/GlosemImages/Chip Mockups - Copy-04.png"
 import GlosemBackHomeCompressed from "./Images/GlosemImages/GlosemHomeBack-min (1).jpg"
+import AVOIcon1 from "./Images/AvoCurations/37.png"
+import AVOIcon2 from "./Images/AvoCurations/38.png"
+import AVOIcon3 from "./Images/AvoCurations/39.png"
+import AVOIcon4 from "./Images/AvoCurations/40.png"
+import AVOIcon5 from "./Images/AvoCurations/41.png"
+import AVOIcon6 from "./Images/AvoCurations/42.png"
+import AVOIcon7 from "./Images/AvoCurations/43.png"
+import AVOIcon8 from "./Images/AvoCurations/44.png"
+import AVOIcon9 from "./Images/AvoCurations/45.png"
+import AVOIcon10 from "./Images/AvoCurations/46.png"
 const UploadPhotos = () => {
 
     const UploadPhotoData = [
+        {
+            img: AVOIcon1
+        },
+        {
+            img: AVOIcon2
+        },
+        {
+            img: AVOIcon3
+        },
+        {
+            img: AVOIcon4
+        },
+        {
+            img: AVOIcon5
+        },
+        {
+            img: AVOIcon6
+        },
+        {
+            img: AVOIcon7
+        },
+        {
+            img: AVOIcon8
+        },
+        {
+            img: AVOIcon9
+        },
+        {
+            img: AVOIcon10
+        },
         {
             img: GiftIcon
         },
@@ -384,25 +424,25 @@ const UploadPhotos = () => {
             img: Flipchip4
         },
         {
-            img:ProductImage1,
+            img: ProductImage1,
         },
         {
-            img:ProductImage2,
+            img: ProductImage2,
         },
         {
-            img:ProductImage3,
+            img: ProductImage3,
         },
         {
-            img:ProductImage4,
+            img: ProductImage4,
         },
         {
-            img:ScrollImage1,
+            img: ScrollImage1,
         },
         {
-            img:ScrollImage2,
+            img: ScrollImage2,
         },
         {
-            img:GlosemBackHomeCompressed,
+            img: GlosemBackHomeCompressed,
         }
     ]
 
