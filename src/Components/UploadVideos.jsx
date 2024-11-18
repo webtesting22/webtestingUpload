@@ -18,10 +18,26 @@ import MittalVideo from "./Videos/AB Mittal Video.mp4"
 import MittalHomePageVideo from "./Videos/MSL HomePage Video.mp4"
 import AVOVideo from "./Videos/AVOVideo.mp4"
 import GiftVideo from "./Videos/GiftVideo.mp4"
+import GiftVideo2 from "./Videos/GiftVideo2.mp4"
+import GiftVideo3 from "./Videos/GiftVideo3.mp4"
+import GiftVideo4 from "./Videos/GiftVideo4.mov"
+import GiftVideo5 from "./Videos/GiftVideo5.mp4"
 const UploadVideos = () => {
     const UploadVideoData = [
         {
             video: GiftVideo
+        },
+        {
+            video: GiftVideo2
+        },
+        {
+            video: GiftVideo3
+        },
+        {
+            video: GiftVideo4
+        },
+        {
+            video: GiftVideo5
         },
         {
             video: AVOVideo
