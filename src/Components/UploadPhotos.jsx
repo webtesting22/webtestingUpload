@@ -106,6 +106,7 @@ import ProductImage4 from "./Images/GlosemImages/FCCSP-new.png"
 import ScrollImage1 from "./Images/GlosemImages/Chip Mockups - Copy-01.png"
 import ScrollImage2 from "./Images/GlosemImages/Chip Mockups - Copy-04.png"
 import GlosemBackHomeCompressed from "./Images/GlosemImages/GlosemHomeBack-min (1).jpg"
+import favicon from "./Images/GlosemImages/GlosemFavicon.png"
 import AVOIcon1 from "./Images/AvoCurations/37.png"
 import AVOIcon2 from "./Images/AvoCurations/38.png"
 import AVOIcon3 from "./Images/AvoCurations/39.png"
@@ -119,6 +120,9 @@ import AVOIcon10 from "./Images/AvoCurations/46.png"
 const UploadPhotos = () => {
 
     const UploadPhotoData = [
+        {
+img:favicon
+        },
         {
             img: G1
         },
