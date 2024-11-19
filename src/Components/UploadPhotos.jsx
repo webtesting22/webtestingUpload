@@ -69,7 +69,13 @@ import CustomerTrust from "./Images/MittalGroup/Customer Trust.jpg"
 import ISI from "./Images/MittalGroup/ISI Mark Certification.jpg"
 import RA from "./Images/MittalGroup/Regulatory Assurance.jpg"
 import BR from "./Images/MittalGroup/Brand Reputation.jpg"
-
+import G1 from "./Images/MittalGroup/G1.png"
+import G2 from "./Images/MittalGroup/G2.png"
+import G3 from "./Images/MittalGroup/G3.png"
+import G4 from "./Images/MittalGroup/G4.png"
+import G5 from "./Images/MittalGroup/G5.png"
+import G6 from "./Images/MittalGroup/G6.png"
+import G7 from "./Images/MittalGroup/G7.png"
 // ----------------GlosemImages-------------------
 import Bhavikpatel from "./Images/GlosemImages/BhavikPatel.jpeg"
 import Home1 from "./Images/GlosemImages/factorImage.jpeg"
@@ -113,6 +119,27 @@ import AVOIcon10 from "./Images/AvoCurations/46.png"
 const UploadPhotos = () => {
 
     const UploadPhotoData = [
+        {
+            img: G1
+        },
+        {
+            img: G2
+        },
+        {
+            img: G3
+        },
+        {
+            img: G4
+        },
+        {
+            img: G5
+        },
+        {
+            img: G6
+        },
+        {
+            img: G7
+        },
         {
             img: AVOIcon1
         },
