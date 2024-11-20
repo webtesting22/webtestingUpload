@@ -80,7 +80,7 @@ import Quality from "./Images/MittalGroup/quality2.jpg"
 import Innovation from "./Images/MittalGroup/innovation.jpg"
 import CS from "./Images/MittalGroup/CS.jpg"
 import integrity from "./Images/MittalGroup/integrity.jpg"
-import MittalBackground from "./Images/MittalGroup/Background.JPG"
+import MittalBackground from "./Images/MittalGroup/Background.jpg"
 // ----------------GlosemImages-------------------
 import Bhavikpatel from "./Images/GlosemImages/BhavikPatel.jpeg"
 import Home1 from "./Images/GlosemImages/factorImage.jpeg"
