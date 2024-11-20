@@ -493,7 +493,7 @@ const UploadPhotos = () => {
             img: GlosemBackHomeCompressed,
         },
         {
-            img:MittalBackground,
+            img: MittalBackground,
         }
     ]
 
