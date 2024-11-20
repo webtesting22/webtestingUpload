@@ -76,6 +76,10 @@ import G4 from "./Images/MittalGroup/G4.png"
 import G5 from "./Images/MittalGroup/G5.png"
 import G6 from "./Images/MittalGroup/G6.png"
 import G7 from "./Images/MittalGroup/G7.png"
+import Quality from "./Images/MittalGroup/quality2.jpg"
+import Innovation from "./Images/MittalGroup/innovation.jpg"
+import CS from "./Images/MittalGroup/CS.jpg"
+import integrity from "./Images/MittalGroup/integrity.jpg"
 // ----------------GlosemImages-------------------
 import Bhavikpatel from "./Images/GlosemImages/BhavikPatel.jpeg"
 import Home1 from "./Images/GlosemImages/factorImage.jpeg"
@@ -121,7 +125,19 @@ const UploadPhotos = () => {
 
     const UploadPhotoData = [
         {
-img:favicon
+            img: Quality
+        },
+        {
+            img: Innovation
+        },
+        {
+            img: CS
+        },
+        {
+            img: integrity
+        },
+        {
+            img: favicon
         },
         {
             img: G1
