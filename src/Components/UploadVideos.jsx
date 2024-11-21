@@ -17,6 +17,10 @@ import Mobilescreen from "./Videos/AgiluxSolutions/Mobilescreen.mp4"
 import MittalVideo from "./Videos/AB Mittal Video.mp4"
 import MittalHomePageVideo from "./Videos/MSL HomePage Video.mp4"
 import MittalHomePageCompressedVideo from './Videos/MSL HomePage Video Compressed.mp4'
+import MittalManufacturing from "./Videos/Mittal Manufacturing.mp4";
+import MittalGallery1 from "./Videos/Gallery 1.mp4";
+import MittalGallery2 from "./Videos/Gallery 2.mp4";
+import MittalGallery3 from "./Videos/Gallery 3.mp4";
 import AVOVideo from "./Videos/AVOVideo.mp4"
 import GiftVideo from "./Videos/GiftVideo.mp4"
 import GiftVideo2 from "./Videos/GiftVideo2.mp4"
@@ -90,7 +94,19 @@ const UploadVideos = () => {
         },
         {
             video:MittalHomePageCompressedVideo,
-        }
+        },
+        {
+            video:MittalManufacturing,
+        },
+        {
+            video:MittalGallery1,
+        },
+        {
+            video:MittalGallery2,
+        },
+        {
+            video:MittalGallery3,
+        },
 
     ]
     return (
