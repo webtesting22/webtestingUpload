@@ -80,7 +80,9 @@ import Quality from "./Images/MittalGroup/quality2.jpg"
 import Innovation from "./Images/MittalGroup/innovation.jpg"
 import CS from "./Images/MittalGroup/CS.jpg"
 import integrity from "./Images/MittalGroup/integrity.jpg"
-
+import MittalVideoThumbnail1 from "/Images/MittalGroup/VideoThumbnail1.webp"
+import MittalVideoThumbnail2 from "/Images/MittalGroup/VideoThumbnail2.webp"
+import MittalVideoThumbnail3 from "/Images/MittalGroup/VideoThumbnail3.webp"
 // ----------------GlosemImages-------------------
 import Bhavikpatel from "./Images/GlosemImages/BhavikPatel.jpeg"
 import Home1 from "./Images/GlosemImages/factorImage.jpeg"
@@ -125,6 +127,15 @@ import AVOIcon10 from "./Images/AvoCurations/46.png"
 const UploadPhotos = () => {
 
     const UploadPhotoData = [
+        {
+            img:MittalVideoThumbnail1,
+        },
+        {
+            img:MittalVideoThumbnail2,
+        },
+        {
+            img:MittalVideoThumbnail3,
+        },
         {
             img: Quality
         },
