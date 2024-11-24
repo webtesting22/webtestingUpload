@@ -125,11 +125,15 @@ import AVOIcon8 from "./Images/AvoCurations/44.png"
 import AVOIcon9 from "./Images/AvoCurations/45.png"
 import AVOIcon10 from "./Images/AvoCurations/46.png"
 import AboutUsAgilux from "./Images/AgiluxSolutions/AboutUsAgilux.jpg"
+import Testing from "./Images/AgiluxSolutions/Testing.jpg"
 const UploadPhotos = () => {
 
     const UploadPhotoData = [
         {
-img:AboutUsAgilux
+            img: Testing
+        },
+        {
+            img: AboutUsAgilux
         },
         {
             img: MittalVideoThumbnail1,
