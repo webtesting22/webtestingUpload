@@ -56,7 +56,7 @@ import GeminiRoundBar3 from "./Images/MittalGroup/groundbar3.jpeg"
 import GeminiAngles3 from "./Images/MittalGroup/gangles3.webp"
 import location from "./Images/MittalGroup/Location.jpg"
 import capability from "./Images/MittalGroup/Capabilities.jpg"
-import OST from "./Images/MittalGroup/On-Site Testing.jpg"
+import OST from "./Images/MittalGroup/On site testing.jpg"
 import MT from "./Images/MittalGroup/Mechanical Testing.jpg"
 import CT from "./Images/MittalGroup/Chemical Testing.jpg"
 import SA from "./Images/MittalGroup/Safety Assurance.jpg"
@@ -76,6 +76,13 @@ import G4 from "./Images/MittalGroup/G4.png"
 import G5 from "./Images/MittalGroup/G5.png"
 import G6 from "./Images/MittalGroup/G6.png"
 import G7 from "./Images/MittalGroup/G7.png"
+import Quality from "./Images/MittalGroup/quality2.jpg"
+import Innovation from "./Images/MittalGroup/innovation.jpg"
+import CS from "./Images/MittalGroup/CS.jpg"
+import integrity from "./Images/MittalGroup/integrity.jpg"
+import MittalVideoThumbnail1 from "./Images/MittalGroup/VideoThumbnail1.webp"
+import MittalVideoThumbnail2 from "./Images/MittalGroup/VideoThumbnail2.webp"
+import MittalVideoThumbnail3 from "./Images/MittalGroup/VideoThumbnail3.webp"
 // ----------------GlosemImages-------------------
 import Bhavikpatel from "./Images/GlosemImages/BhavikPatel.jpeg"
 import Home1 from "./Images/GlosemImages/factorImage.jpeg"
@@ -125,7 +132,28 @@ const UploadPhotos = () => {
 img:AboutUsAgilux
         },
         {
-img:favicon
+            img: MittalVideoThumbnail1,
+        },
+        {
+            img: MittalVideoThumbnail2,
+        },
+        {
+            img: MittalVideoThumbnail3,
+        },
+        {
+            img: Quality
+        },
+        {
+            img: Innovation
+        },
+        {
+            img: CS
+        },
+        {
+            img: integrity
+        },
+        {
+            img: favicon
         },
         {
             img: G1
@@ -478,7 +506,8 @@ img:favicon
         },
         {
             img: GlosemBackHomeCompressed,
-        }
+        },
+
     ]
 
     return (
