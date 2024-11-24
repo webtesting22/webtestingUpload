@@ -83,7 +83,6 @@ import integrity from "./Images/MittalGroup/integrity.jpg"
 import MittalVideoThumbnail1 from "./Images/MittalGroup/VideoThumbnail1.webp"
 import MittalVideoThumbnail2 from "./Images/MittalGroup/VideoThumbnail2.webp"
 import MittalVideoThumbnail3 from "./Images/MittalGroup/VideoThumbnail3.webp"
-// ----------------GlosemImages-------------------
 import Bhavikpatel from "./Images/GlosemImages/BhavikPatel.jpeg"
 import Home1 from "./Images/GlosemImages/factorImage.jpeg"
 import Home2 from "./Images/GlosemImages/GlosemHomeBack.jpg"
@@ -127,9 +126,21 @@ import AVOIcon10 from "./Images/AvoCurations/46.png"
 import AboutUsAgilux from "./Images/AgiluxSolutions/AboutUsAgilux.jpg"
 import Testing from "./Images/AgiluxSolutions/Testing.jpg"
 import UIUX from "./Images/AgiluxSolutions/UIUX.jpg"
+import AppbackendDev from "./Images/AgiluxSolutions/AppbackendDev.jpeg"
+import AppFrontendDev from "./Images/AgiluxSolutions/AppFrontendDev.jpeg"
+import DeployementPublish from "./Images/AgiluxSolutions/DeployementPublish.jpeg"
 const UploadPhotos = () => {
 
     const UploadPhotoData = [
+        {
+            img: DeployementPublish
+        },
+        {
+            img: AppFrontendDev
+        },
+        {
+            img: AppbackendDev
+        },
         {
             img: UIUX
         },
