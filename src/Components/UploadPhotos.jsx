@@ -126,9 +126,13 @@ import AVOIcon9 from "./Images/AvoCurations/45.png"
 import AVOIcon10 from "./Images/AvoCurations/46.png"
 import AboutUsAgilux from "./Images/AgiluxSolutions/AboutUsAgilux.jpg"
 import Testing from "./Images/AgiluxSolutions/Testing.jpg"
+import UIUX from "./Images/AgiluxSolutions/UIUX.jpg"
 const UploadPhotos = () => {
 
     const UploadPhotoData = [
+        {
+            img: UIUX
+        },
         {
             img: Testing
         },
