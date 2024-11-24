@@ -117,9 +117,13 @@ import AVOIcon7 from "./Images/AvoCurations/43.png"
 import AVOIcon8 from "./Images/AvoCurations/44.png"
 import AVOIcon9 from "./Images/AvoCurations/45.png"
 import AVOIcon10 from "./Images/AvoCurations/46.png"
+import AboutUsAgilux from "./Images/AgiluxSolutions/AboutUsAgilux.jpg"
 const UploadPhotos = () => {
 
     const UploadPhotoData = [
+        {
+img:AboutUsAgilux
+        },
         {
 img:favicon
         },
