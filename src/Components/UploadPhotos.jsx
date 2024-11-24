@@ -129,9 +129,13 @@ import UIUX from "./Images/AgiluxSolutions/UIUX.jpg"
 import AppbackendDev from "./Images/AgiluxSolutions/AppbackendDev.jpeg"
 import AppFrontendDev from "./Images/AgiluxSolutions/AppFrontendDev.jpeg"
 import DeployementPublish from "./Images/AgiluxSolutions/DeployementPublish.jpeg"
+import PostLaunchSupport from "./Images/AgiluxSolutions/PostLaunchSupport.jpeg"
 const UploadPhotos = () => {
 
     const UploadPhotoData = [
+        {
+img:PostLaunchSupport
+        },
         {
             img: DeployementPublish
         },
