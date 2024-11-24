@@ -134,7 +134,7 @@ const UploadPhotos = () => {
 
     const UploadPhotoData = [
         {
-img:PostLaunchSupport
+            img: PostLaunchSupport
         },
         {
             img: DeployementPublish
