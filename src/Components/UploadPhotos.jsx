@@ -76,6 +76,7 @@ import G4 from "./Images/MittalGroup/G4.png"
 import G5 from "./Images/MittalGroup/G5.png"
 import G6 from "./Images/MittalGroup/G6.png"
 import G7 from "./Images/MittalGroup/G7.png"
+import G8 from "./Images/MittalGroup/GalleryImage.webp"
 import Quality from "./Images/MittalGroup/quality2.jpg"
 import Innovation from "./Images/MittalGroup/innovation.jpg"
 import CS from "./Images/MittalGroup/CS.jpg"
@@ -198,6 +199,9 @@ const UploadPhotos = () => {
         },
         {
             img: G7
+        },
+        {
+            img:G8
         },
         {
             img: AVOIcon1
