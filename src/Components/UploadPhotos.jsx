@@ -131,9 +131,23 @@ import AppbackendDev from "./Images/AgiluxSolutions/AppbackendDev.jpeg"
 import AppFrontendDev from "./Images/AgiluxSolutions/AppFrontendDev.jpeg"
 import DeployementPublish from "./Images/AgiluxSolutions/DeployementPublish.jpeg"
 import PostLaunchSupport from "./Images/AgiluxSolutions/PostLaunchSupport.jpeg"
+
+import IndiesemicProduct1 from "./Images/IndiSemic/Indiesemic ISC-Beacon-V01 ASSET TAG_1.png"
+import IndiesemicProduct2 from "./Images/IndiSemic/Indiesemic ISC-Beacon-V01 ASSET TAG_2.png"
+import IndiesemicProduct3 from "./Images/IndiSemic/Indiesemic ISC-Beacon-V01 ASSET TAG_3.png"
+
 const UploadPhotos = () => {
 
     const UploadPhotoData = [
+        {
+            img: IndiesemicProduct1
+        },
+        {
+            img: IndiesemicProduct2
+        },
+        {
+            img: IndiesemicProduct3
+        },
         {
             img: PostLaunchSupport
         },
