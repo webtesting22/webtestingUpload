@@ -56,6 +56,8 @@ import GeminiRoundBar3 from "./Images/MittalGroup/groundbar3.jpeg"
 import GeminiAngles3 from "./Images/MittalGroup/gangles3.webp"
 import location from "./Images/MittalGroup/Location.jpg"
 import capability from "./Images/MittalGroup/Capabilities.jpg"
+import InvestorsNavigationImage from "./Images/MittalGroup/Investor.webp"
+import GroupCompaniesNavigationImage from "./Images/MittalGroup/GroupCompanies.webp";
 import OST from "./Images/MittalGroup/On site testing.jpg"
 import MT from "./Images/MittalGroup/Mechanical Testing.jpg"
 import CT from "./Images/MittalGroup/Chemical Testing.jpg"
@@ -139,6 +141,12 @@ import IndiesemicProduct3 from "./Images/IndiSemic/Indiesemic ISC-Beacon-V01 ASS
 const UploadPhotos = () => {
 
     const UploadPhotoData = [
+        {
+            img:GroupCompaniesNavigationImage,
+        },
+        {
+            img:InvestorsNavigationImage,
+        },
         {
             img: IndiesemicProduct1
         },
