@@ -56,6 +56,8 @@ import GeminiRoundBar3 from "./Images/MittalGroup/groundbar3.jpeg"
 import GeminiAngles3 from "./Images/MittalGroup/gangles3.webp"
 import location from "./Images/MittalGroup/Location.jpg"
 import capability from "./Images/MittalGroup/Capabilities.jpg"
+import InvestorsNavigationImage from "./Images/MittalGroup/Investor.webp"
+import GroupCompaniesNavigationImage from "./Images/MittalGroup/GroupCompanies.webp";
 import OST from "./Images/MittalGroup/On site testing.jpg"
 import MT from "./Images/MittalGroup/Mechanical Testing.jpg"
 import CT from "./Images/MittalGroup/Chemical Testing.jpg"
@@ -76,6 +78,7 @@ import G4 from "./Images/MittalGroup/G4.png"
 import G5 from "./Images/MittalGroup/G5.png"
 import G6 from "./Images/MittalGroup/G6.png"
 import G7 from "./Images/MittalGroup/G7.png"
+import G8 from "./Images/MittalGroup/GalleryImage.webp"
 import Quality from "./Images/MittalGroup/quality2.jpg"
 import Innovation from "./Images/MittalGroup/innovation.jpg"
 import CS from "./Images/MittalGroup/CS.jpg"
@@ -134,6 +137,11 @@ import BackendDev from "./Images/AgiluxSolutions/BackendDev.jpg"
 import CMSWeb from "./Images/AgiluxSolutions/CMSWeb.png"
 import TestingWeb from "./Images/AgiluxSolutions/TestingWeb.jpg"
 import PostLaunchSupport from "./Images/AgiluxSolutions/Post-Launch-Support.jpg"
+
+import IndiesemicProduct1 from "./Images/IndiSemic/Indiesemic ISC-Beacon-V01 ASSET TAG_1.png"
+import IndiesemicProduct2 from "./Images/IndiSemic/Indiesemic ISC-Beacon-V01 ASSET TAG_2.png"
+import IndiesemicProduct3 from "./Images/IndiSemic/Indiesemic ISC-Beacon-V01 ASSET TAG_3.png"
+
 const UploadPhotos = () => {
 
     const UploadPhotoData = [
@@ -148,6 +156,21 @@ const UploadPhotos = () => {
         },
         {
             img: BackendDev
+        },
+        {
+            img:GroupCompaniesNavigationImage,
+        },
+        {
+            img:InvestorsNavigationImage,
+        },
+        {
+            img: IndiesemicProduct1
+        },
+        {
+            img: IndiesemicProduct2
+        },
+        {
+            img: IndiesemicProduct3
         },
         {
             img: PostLaunchSupport
@@ -214,6 +237,9 @@ const UploadPhotos = () => {
         },
         {
             img: G7
+        },
+        {
+            img:G8
         },
         {
             img: AVOIcon1
