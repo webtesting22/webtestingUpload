@@ -140,10 +140,29 @@ import PostLaunchSupportNew from "./Images/AgiluxSolutions/Post-Launch-Support.j
 import IndiesemicProduct1 from "./Images/IndiSemic/Indiesemic ISC-Beacon-V01 ASSET TAG_1.png"
 import IndiesemicProduct2 from "./Images/IndiSemic/Indiesemic ISC-Beacon-V01 ASSET TAG_2.png"
 import IndiesemicProduct3 from "./Images/IndiSemic/Indiesemic ISC-Beacon-V01 ASSET TAG_3.png"
-
+import ConceptDevelopmentIdeation from "./Images/AgiluxSolutions/ConceptDevelopmentIdeation.jpg"
+import DesignExecution from "./Images/AgiluxSolutions/DesignExecution.jpg"
+import FinalAdjustments from "./Images/AgiluxSolutions/FinalAdjustments.jpg"
+import FilePreparationandDelivery from "./Images/AgiluxSolutions/File PreparationandDelivery.jpg"
+import ClientHandoffandSupport from "./Images/AgiluxSolutions/Client HandoffandSupport.jpg"
 const UploadPhotos = () => {
 
     const UploadPhotoData = [
+        {
+            img:ClientHandoffandSupport
+        },
+        {
+            img:FilePreparationandDelivery
+        },
+        {
+            img:FinalAdjustments
+        },
+        {
+            img:DesignExecution
+        },
+        {
+            img:ConceptDevelopmentIdeation
+        },
         {
             img:PostLaunchSupportNew
         },
