@@ -130,9 +130,25 @@ import AppbackendDev from "./Images/AgiluxSolutions/AppbackendDev.jpeg"
 import AppFrontendDev from "./Images/AgiluxSolutions/AppFrontendDev.jpeg"
 import DeployementPublish from "./Images/AgiluxSolutions/DeployementPublish.jpeg"
 import PostLaunchSupport from "./Images/AgiluxSolutions/PostLaunchSupport.jpeg"
+import BackendDev from "./Images/AgiluxSolutions/BackendDev.jpg"
+import CMSWeb from "./Images/AgiluxSolutions/CMSWeb.png"
+import TestingWeb from "./Images/AgiluxSolutions/TestingWeb.jpg"
+import PostLaunchSupport from "./Images/AgiluxSolutions/Post-Launch-Support.jpg"
 const UploadPhotos = () => {
 
     const UploadPhotoData = [
+        {
+            img:PostLaunchSupport
+        },
+        {
+            img: TestingWeb
+        },
+        {
+            img: CMSWeb
+        },
+        {
+            img: BackendDev
+        },
         {
             img: PostLaunchSupport
         },
