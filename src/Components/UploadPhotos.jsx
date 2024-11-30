@@ -136,7 +136,7 @@ import PostLaunchSupport from "./Images/AgiluxSolutions/PostLaunchSupport.jpeg"
 import BackendDev from "./Images/AgiluxSolutions/BackendDev.jpg"
 import CMSWeb from "./Images/AgiluxSolutions/CMSWeb.png"
 import TestingWeb from "./Images/AgiluxSolutions/TestingWeb.jpg"
-
+import PostLaunchSupportNew from "./Images/AgiluxSolutions/Post-Launch-Support.jpg"
 import IndiesemicProduct1 from "./Images/IndiSemic/Indiesemic ISC-Beacon-V01 ASSET TAG_1.png"
 import IndiesemicProduct2 from "./Images/IndiSemic/Indiesemic ISC-Beacon-V01 ASSET TAG_2.png"
 import IndiesemicProduct3 from "./Images/IndiSemic/Indiesemic ISC-Beacon-V01 ASSET TAG_3.png"
@@ -144,6 +144,9 @@ import IndiesemicProduct3 from "./Images/IndiSemic/Indiesemic ISC-Beacon-V01 ASS
 const UploadPhotos = () => {
 
     const UploadPhotoData = [
+        {
+            img:PostLaunchSupportNew
+        },
         {
             img: TestingWeb
         },
