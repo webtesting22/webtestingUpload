@@ -27,8 +27,24 @@ import GiftVideo2 from "./Videos/GiftVideo2.mp4"
 import GiftVideo3 from "./Videos/GiftVideo3.mp4"
 import GiftVideo4 from "./Videos/GiftVideo4.mov"
 import GiftVideo5 from "./Videos/GiftVideo5.mp4"
+import Gym from "./Videos/AgiluxSolutions/Gym.mp4"
+import Expoleads from "./Videos/AgiluxSolutions/Expoleads.mp4"
+import BakeryShop from "./Videos/AgiluxSolutions/Bakery Shop.mp4"
+import AMC from "./Videos/AgiluxSolutions/AMC.mp4"
 const UploadVideos = () => {
     const UploadVideoData = [
+        {
+            video: AMC
+        },
+        {
+            video: BakeryShop
+        },
+        {
+            video: Expoleads
+        },
+        {
+            video: Gym
+        },
         {
             video: GiftVideo
         },
@@ -93,19 +109,19 @@ const UploadVideos = () => {
             video: MittalHomePageVideo,
         },
         {
-            video:MittalHomePageCompressedVideo,
+            video: MittalHomePageCompressedVideo,
         },
         {
-            video:MittalManufacturing,
+            video: MittalManufacturing,
         },
         {
-            video:MittalGallery1,
+            video: MittalGallery1,
         },
         {
-            video:MittalGallery2,
+            video: MittalGallery2,
         },
         {
-            video:MittalGallery3,
+            video: MittalGallery3,
         },
 
     ]
